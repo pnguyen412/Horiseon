@@ -10,6 +10,10 @@
 ## Installation:
 - Clone the repository on github locally. After being successfully cloned, files are editable through VSC.
 
+## Usage:
+- https://pnguyen412.github.io/Horiseon/
+- 
+
 ## Collaborators:
 - https://github.com/arkenwald
 
