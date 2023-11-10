@@ -12,8 +12,11 @@
 
 ## Usage:
 - https://pnguyen412.github.io/Horiseon/
-- 
-
+  
+ ![screenshot1](assets/images/Screenshot1.png)
+  
+ ![screenshot1](assets/images/Screenshot2.png)
+   
 ## Collaborators:
 - https://github.com/arkenwald
 
