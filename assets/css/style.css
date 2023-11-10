@@ -1,3 +1,4 @@
+/* universal selector */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -99,6 +100,7 @@ h3 {
 }
 
 
+/* consolidated code for the side bar images from 9 lines of code to 3 and changed the selector */
 .side-bar img {
     display: block;
     margin: 10px auto;
@@ -106,6 +108,7 @@ h3 {
 }
 
 
+/* consolidated code for main images from 18 lines of code to 6 and renamed the selector */
 .main-image {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +122,7 @@ h3 {
     max-height: 200px;
 }
 
+/* consolidated code for h2 text from 6 lines of code to 2. DID NOT change the selector*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
